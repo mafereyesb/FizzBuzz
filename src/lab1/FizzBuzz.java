@@ -10,7 +10,7 @@ class FizzBuzz {
         doFizzBuzz();
     }
 
-    private static void doFizzBuzz() {
+    public static void doFizzBuzz() {
         int i = 1;
         while (i < 100) {
 //        for (int i = 1; i < 100; i++) {
